@@ -1,1 +1,1 @@
-# root_finder
+# Throwing motion
